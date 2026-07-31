@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# This site has no production domain yet. Replace this file and add a
+# domain-specific sitemap when the canonical hostname has been selected.
